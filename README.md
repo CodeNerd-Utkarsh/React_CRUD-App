@@ -2,6 +2,18 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Installing all the required dependency
+
+In the project directory, you can run:
+
+### `npm install`
+
+## You need to run the dummy json-server
+
+In the project directory, you can run:
+
+### `npm run json-server`
+
 ## Available Scripts
 
 In the project directory, you can run:
