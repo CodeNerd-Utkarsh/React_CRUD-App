@@ -10,7 +10,7 @@ In the project directory, you can run:
 
 ## You need to run the dummy json-server
 
-In the project directory, you can run:
+In the project directory, you can run =>
 
 ### `npm run json-server`
 
